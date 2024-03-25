@@ -1,0 +1,14 @@
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\bin\Debug\net8.0\TDE-02.exe
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\bin\Debug\net8.0\TDE-02.deps.json
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\bin\Debug\net8.0\TDE-02.runtimeconfig.json
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\bin\Debug\net8.0\TDE-02.dll
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\bin\Debug\net8.0\TDE-02.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.AssemblyInfoInputs.cache
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.AssemblyInfo.cs
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.csproj.CoreCompileInputs.cache
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.dll
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\refint\TDE-02.dll
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\TDE-02.genruntimeconfig.cache
+C:\Users\faria\OneDrive\Área de Trabalho\LP ADS\aula 3\TDE-02\obj\Debug\net8.0\ref\TDE-02.dll

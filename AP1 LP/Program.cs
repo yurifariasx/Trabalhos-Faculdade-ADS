@@ -14,9 +14,9 @@ Console.WriteLine("Digite seu peso:");
 double peso = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Digite sua altura:");
 double altura = Convert.ToDouble(Console.ReadLine());
-
+// Cálculo do IMC.
 double imc = peso / (altura * altura);
-
+// Variável para armazenar a classificação do IMC.
 string calcimc;
 if(imc < 18.5)
 {
@@ -34,7 +34,7 @@ else
 {
    calcimc = "Voçê está obeso"; 
 }
-
+// Variável para armazenar a faixa etária.
 string faixaEtaria;
     if (idade < 10)
         {
@@ -52,14 +52,14 @@ string faixaEtaria;
         {
             faixaEtaria = "Idoso";
         }
-
+// Exibe resultados
 Console.WriteLine("===| Relatório |===");
 Console.WriteLine($"Nome: {nome}");
 Console.WriteLine($"Idade: {idade} anos");
 Console.WriteLine($"IMC: {imc:F2} ({calcimc})"); 
 Console.WriteLine($"Faixa Etária: {faixaEtaria}");
 
-
+// Verificar se o usuário deseja calcular para outra pessoa.
 Console.WriteLine("Deseja calcular para outra pessoa? (s/n)");
 string resposta = Console.ReadLine();
 if (resposta != "s")
